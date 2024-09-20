@@ -1,4 +1,4 @@
-# HabitTracker -Simple Task Manager
+# HabitTracker - Simple Task Manager
 HabitTracker is a mobile application built with Flutter that allows users to track and manage their daily tasks and habits. With a simple and intuitive interface, users can easily add, update, delete, and mark tasks as completed.
 
 ## Features
